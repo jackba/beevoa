@@ -1,3 +1,4 @@
+#labels OnlineHelp,BeeVOA
 == Introduction ==
 
 BEE VOA Learning English is an interactive application featuring:
