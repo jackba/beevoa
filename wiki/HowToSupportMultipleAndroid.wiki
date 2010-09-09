@@ -1,4 +1,4 @@
-#labels Android,Cross-Platform
+#labels CrossPlatform,Android
 = Introduction =
 
 Up to 2010 July, the breakdown of active devices running different versions of Android OS is: 
