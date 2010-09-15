@@ -1,7 +1,7 @@
 #labels OnlineHelp,BeeVOA
 == Introduction ==
 
-BEE VOA Learning English is an interactive application featuring:
+BEE VOA Reader is an interactive application featuring:
  * Support reading articles from VOA Leaning English online or offline
  * Powerful support of offline reading, you can download the articles you like and listen to it again and again
  * Support bookmark articles as favorite
