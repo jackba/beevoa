@@ -11,7 +11,7 @@ The app has three tabs: Articles, Favorites and Downloads
 
 Under *Articles* tab, you can browse all articles from VOA Learning English. And you have following options:
  * *Check New Articles Now*: check the latest articles from VOA Leaning English immediately. You can also change the auto check period through *Preferences* option
- * *Download History*: open download history, it's same as you select the *Downloads* tab. The voice files will be stored on storage card, and without storage card, you will not be able to listen to voice files in offline mode
+ * *Download History*: open download history, it's the same as you select the *Downloads* tab. The voice files will be stored on storage card, and without storage card, you will not be able to listen to voice files in offline mode
  * *Preference*: open the Preference view for some configurations
 
 For every line in an article list, a leading cloud icon indicates the article's voice file has not downloaded to storage card; and the icon becomes a disk after voice file downloaded. At the tail of an article, there is a check box. You can mark the article as favorite by it. 
